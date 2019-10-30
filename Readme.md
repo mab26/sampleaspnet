@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ccrowellla/asp-build/_apis/build/status/DevBuild1?branchName=master)](https://dev.azure.com/ccrowellla/asp-build/_build/latest?definitionId=36&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
