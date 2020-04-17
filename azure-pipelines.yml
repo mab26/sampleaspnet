@@ -56,7 +56,8 @@ trigger:
 
 # Windows machine with Visual Studio 2019:
 pool:
-  vmImage: 'windows-2019'
+ #vmImage: 'windows-2019'
+ name: windowspool
 
 
 # Two jobs in this pipeline:
