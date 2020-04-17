@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: windowspool
+  name: default
 
 variables:
   solution: '**/*.sln'
